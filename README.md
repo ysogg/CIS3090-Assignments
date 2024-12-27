@@ -1,6 +1,6 @@
 # CIS*3090 Parallel Programming
 
-These are my assignments for CIS*3090 which I took in my Fall 2024 semester. I scored perfectly on the programming portions of each assignment and got a 99.5% overall in the class.
+These are my assignments for CIS*3090 which I took in my Fall 2024 semester. I scored perfectly on the programming portions of each assignment and got a 100% overall in the class.
 
 
 >Each assignment is in its respective folder. Anything regarding timings as well as the shell scripts were for gathering timing data for speedup analysis reports and are not necessary for the code to function.
